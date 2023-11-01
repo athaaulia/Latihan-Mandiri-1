@@ -1,2 +1,2 @@
 ini adalah latihan mandiri pertama.
-saya sedang coba memahami Git."ini adalah latihan mandiri pertama." 
+saya sedang coba memahami Git.
